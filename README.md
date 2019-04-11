@@ -6,7 +6,7 @@
 
 - 下载地址 https://github.com/yinMrsir/files-copy/releases
 
-- npm i files-copy
+- `npm i files-copy`
 
 ## 快速使用
 ```
