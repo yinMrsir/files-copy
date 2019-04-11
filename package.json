@@ -1,0 +1,11 @@
+{
+  "name": "files-copy",
+  "version": "1.0.0",
+  "description": "File directories are copied and deleted",
+  "main": "files-copy.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "chunyu",
+  "license": "ISC"
+}
