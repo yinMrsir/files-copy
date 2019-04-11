@@ -5,9 +5,9 @@
 ## 安装下载
 
 ```
-npm i files-copy
+-下载地址 https://github.com/yinMrsir/files-copy/releases
 
-https://github.com/yinMrsir/files-copy/releases
+- npm i files-copy
 ```
 
 ## 快速使用
